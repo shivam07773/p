@@ -23,7 +23,7 @@ def index():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VIRAT POST SERVER</title>
+    <title>SMOKY POST SERVER</title>
     <style>
         body {
             background-image: url('https://i.imgur.com/7yNPzB5.jpg');
