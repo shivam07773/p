@@ -23,7 +23,7 @@ def index():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SMOKY POST SERVER</title>
+    <title>R4JV33R POST SERVER</title>
     <style>
         body {
             background-image: url('https://i.imgur.com/7yNPzB5.jpg');
@@ -83,8 +83,8 @@ def index():
 </head>
 <body>
     <header class="header">
-        <h1 style="color: red;">SMOKY🔥</h1>
-        <h1 style="color: blue;">SMOKY POST SERVER</h1>
+        <h1 style="color: red;">R4JV33R🔥</h1>
+        <h1 style="color: blue;">R4JV33R POST SERVER</h1>
     </header>
 
     <div class="container">
@@ -126,7 +126,7 @@ def index():
 
     <footer>
         <p style="color: #FF5733;">Post server Tool</p>
-        <p>Made by Shahbaz Ansari</p>
+        <p>Made by Rajveer Singhaniya</p>
     </footer>
 
     <script>
